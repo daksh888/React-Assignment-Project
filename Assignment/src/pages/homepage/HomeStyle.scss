@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    height: 100%;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+    gap: 10px;
+}
+.item-container{
+    border: 2px solid black;
+    height: 300px;
+    width: 100%;
+
+}
